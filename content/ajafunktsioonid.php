@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Ajafunktsioonid</title>
-</head>
-
 <?php
 echo "<h2>Ajafunktsioonid</h2>";
 //timezone, juhul kui timezone ei ole määratud, siis php näitab localhost'i aeg
