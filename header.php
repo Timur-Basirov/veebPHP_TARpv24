@@ -1,3 +1,3 @@
 <header>
-    <h1>Õpetaja PHP tööd | TARpv24</h1>
+    <h1>Timur Baširov PHP tööd | TARpv24</h1>
 </header>

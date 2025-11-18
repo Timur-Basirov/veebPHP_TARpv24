@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Õpetaja PHP tööd</title>
+    <title>PHP tööd Timur Baširov(TARpv24)</title>
     <link rel="stylesheet" href="style/style.css">
 
 </head>
@@ -27,11 +27,17 @@ include ('nav.php');
     </div>
     <div>
         <img src="image/pilt.png" alt="pilt vabal valikul">
+        <h1>Kuupäev ja kellaeg(JavaScript)</h1>
+        <button onclick="naita()">Praegu on:</button>
+        <p id="vastus1"></p>
+        <p id="vastus2"></p>
+
     </div>
 </div>
 <?php
 include ('footer.php');
 ?>
 <script src ="js/musicJs.js"></script>
+<script src="js/nupp.js"></script>
 </body>
 </html>
