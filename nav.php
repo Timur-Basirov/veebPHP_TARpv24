@@ -9,5 +9,10 @@
             <a href="https://timurbasirov23.thkit.ee" target="_blank">Vana index
             </a>
         </li>
+        <li>
+            <strong>
+            <a href="?link=tekstfunktsioonid.php">Tekstfunktsioonid</a>
+            </strong>
+        </li>
     </ul>
 </nav>
