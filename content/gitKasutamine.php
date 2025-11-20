@@ -45,4 +45,4 @@ echo "<pre>";
 echo "git clone git@github.com:Timur-Basirov/veebPHP_TARpv24.git";
 echo "</pre>";
 echo "</li>";
-echo "/ol>";
+echo "</ol>";
